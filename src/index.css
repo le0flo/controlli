@@ -1,0 +1,60 @@
+:root {
+  /* Palette di colori */
+
+  --text: #eefcf1;
+  --links: #aedcd1;
+  --background: #031108;
+  --background-card: #031504;
+  --primary: #22c957;
+  --secondary: #146a7b;
+  --accent: #1b5a9d;
+
+  /* Settings generici */
+
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-color: var(--background);
+  color: var(--text);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  font-family: 'Poppins', sans-serif;
+  color: var(--links);
+  text-decoration: none;
+}
+
+a:hover {
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+}
+
+@media screen and (max-width: 1300px) {
+  body {
+    overflow-y: scroll;
+  } 
+}

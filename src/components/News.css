@@ -1,0 +1,35 @@
+.news {
+    grid-area: news;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.news-list {
+    width: 100%;
+    height: 90%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+    overflow-y: scroll;
+}
+
+@media screen and (max-width: 1300px) {
+    .news {
+        margin-top: 100px;
+        width: 90vw;
+
+        align-items: flex-start;
+    }
+
+    .news-list {
+        height: auto;
+    
+        overflow-y: hidden;
+    }  
+}
