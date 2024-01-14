@@ -16,6 +16,7 @@ export function Link() {
                         <li><a href="https://github.com/kacos2000/Win10LiveInfo">Win 10 Live info</a></li>
                         <li><a href="https://ericzimmerman.github.io/#!index.md">Eric Zimmerman's Tools</a></li>
                         <li><a href="https://live.sysinternals.com/">SysInternals</a></li>
+                        <li><a href="https://echo.ac/sgrm">Parser per l'srgmbroker</a></li>
                     </ul>
                 </div>
                 <div className="link-group">

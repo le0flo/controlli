@@ -1,13 +1,13 @@
 :root {
   /* Palette di colori */
 
-  --text: #eefcf1;
-  --links: #aedcd1;
-  --background: #031108;
-  --background-card: #031504;
-  --primary: #22c957;
-  --secondary: #146a7b;
-  --accent: #1b5a9d;
+  --text: #fdd5e8;
+  --links: #fdd5e8;
+  --background: #140c10;
+  --background-card: #1e1118;
+  --primary: #f86fb7;
+  --secondary: #984c08;
+  --accent: #f4c726;
 
   /* Settings generici */
 
