@@ -10,7 +10,6 @@ export function App() {
       <Title />
       <Link />
       <Guide />
-      <News />
     </>
   )
 }

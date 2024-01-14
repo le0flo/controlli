@@ -15,8 +15,10 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+}
 
-    overflow-y: scroll;
+.guide-list::-webkit-scrollbar {
+    display: none;
 }
 
 .guide-group {
