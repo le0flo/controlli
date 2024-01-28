@@ -14,6 +14,7 @@ export function Link() {
                         <li><a href="https://www.nirsoft.net/utils/computer_activity_view.html">LastActivityView</a></li>
                         <li><a href="https://www.nirsoft.net/utils/userassist_view.html">UserAssistView</a></li>
                         <li><a href="https://github.com/kacos2000/Win10LiveInfo">Win 10 Live info</a></li>
+                        <li><a href="https://github.com/Si13n7/BinarySignatureStatus">BinarySignatureStatus</a></li>
                         <li><a href="https://ericzimmerman.github.io/#!index.md">Eric Zimmerman's Tools</a></li>
                         <li><a href="https://live.sysinternals.com/">SysInternals</a></li>
                         <li><a href="https://echo.ac/sgrm">Parser per l'srgmbroker</a></li>

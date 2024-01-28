@@ -7,7 +7,7 @@ export function Guide() {
             <div className="guide-list">
                 <div className="guide-group">
                     <h3>Guida per i controlli</h3>
-                    <a href="./GuidaControlli.pdf">Guida completa</a>
+                    <a href="./Guida.pdf">Guida completa</a>
                     <ul>
                         <li><a href="./Indice.pdf">Teoria - Indice</a></li>
                         <li><a href="./Introduzione.pdf">Teoria - Introduzione</a></li>
